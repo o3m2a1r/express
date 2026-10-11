@@ -3,6 +3,7 @@
   "description": "Demonstrates Using Express and Connect",
   "version": "0.0.1",
   "private": true,
+  "main" : "express.js",
   "dependencies": {
     "express": "4.x"
   }
