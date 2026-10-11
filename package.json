@@ -6,7 +6,7 @@
   "main" : "express.js",
   "scripts" : {
     "start:prod": "node dist/src/main"
-  }
+  },
   
   "dependencies": {
     "express": "4.x"
